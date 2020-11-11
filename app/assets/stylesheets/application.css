@@ -47,7 +47,7 @@ nav {
 
 .nav-list-item {
   list-style: none;
-  dispray: inline-block;
+  display: inline-block;
   margin: 0 20px;
 }
 
